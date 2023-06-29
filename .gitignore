@@ -40,6 +40,7 @@ build/Release
 
 # Dependency directories
 api/node_modules/
+client/node_modules/
 node_modules/
 jspm_packages/
 
@@ -75,6 +76,7 @@ web_modules/
 
 # dotenv environment variable files
 api/.env
+client/.env
 .env
 .env.development.local
 .env.test.local
